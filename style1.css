@@ -1,0 +1,34 @@
+body {
+  background-color: #EAF6f6
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 5px;
+  width: 5%;
+}
+h2{
+  color: #66BFBF
+}
+table, td, th {
+  border: 1px solid black;
+  line-height: 30px;
+}
+
+table {
+  border-collapse: collapse;
+  width:auto;
+
+}
+p{
+  text-indent: 30px;
+  display:grid;
+
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 17px;
+  line-height: 25px;
+}
+th {
+  height: 70px;
