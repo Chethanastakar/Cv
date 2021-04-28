@@ -26,13 +26,13 @@ ul{
     list-style: none;
 }
 
-
+.header{
+  position: relative;
+  width: 210vh;
+  height: 210vh;
+  background: black;
  
-  
-
- 
-
-
+}
 
 .header .navbar{
     width: 100%;
